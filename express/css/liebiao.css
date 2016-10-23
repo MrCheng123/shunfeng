@@ -1,0 +1,36 @@
+
+.liebiao{width: 1200px;height: auto;margin: 0 auto;}
+.nosp{width: 350px; padding: 30px 0;margin: 0 auto;line-height: 40px;font-size: 18px;color: #333;}
+.nosp b{color: #fa7a20;font-weight: 800;font-size: 20px;}
+
+.lbtop{width: 100%;height: 20px;margin: 10px 0;font-size: 14px;}
+.listall{width: 100%;height: auto;}
+.list_l{width: 184px;height: 200px;border: 1px solid #ccc;}
+.list_r{width: 1000px;}
+.list{width: 1020px;margin-bottom: 20px;overflow: hidden;}
+.thelist{width: 219px;height: 336px;padding: 10px;border: 1px solid #fff;margin: 4px;position: relative;}
+.thelist:hover{border-color:#ddd;box-shadow: 0 0 4px #ddd;}
+.thelist img{width: 210px;height: 210px;margin-left: 5px;}
+.jge{height: 38px;color: #bb3221;font-family: "microsoft yahei", Arial;line-height: 40px;}
+.jge b{font-size: 20px;}
+.ppjj{padding: 4px 0;}
+.ppjj a{color: #176246;margin-right: 5px;}
+.ppjj span{padding: 2px 5px;background: #690;color: #fff;border-radius: 3px;}
+.jiaj{width: 55px;height: 24px;}
+.jiaj input{width: 25px;height: 22px;border:1px solid #ccc;margin-right: 3px;text-align: center;line-height: 22px;}
+.add,.jian{width: 13px;height: 9px;border: 1px solid #ccc;text-align: center;line-height: 9px;cursor: pointer;}
+.jian{margin-top:2px;}
+.add:hover,.jian:hover{background: #ddd;}
+.lbcar{display: inline-block;width: 66px; height: 22px;padding-left: 20px; text-align: center;line-height: 22px;border: 1px solid #ccc; border-radius: 3px;color: #690;background: url("../images/productList.png") no-repeat -131px -192px;}
+.thelist:hover .lbcar{color: #fff;background:#690 url("../images/productList.png") no-repeat -131px -163px;}
+
+.tcdPageCode{padding: 15px 30px;text-align: right;color: #ccc;}
+.tcdPageCode a,.tcdPageCode span{display: inline-block;color: #176246;height: 25px;line-height: 25px;	padding: 0 10px;border: 1px solid #ddd;margin: 0 2px;vertical-align: middle;}
+.tcdPageCode span{background: #f1f1f1;border-color: #fff;}
+.tcdPageCode a:hover{text-decoration: none;border: 1px solid #690;}
+.tcdPageCode .current{display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px; font-weight:800;color: #fa7a20;border: 1px solid #fa7a20;background: #fff; vertical-align: middle;}
+.tcdPageCode .disabled{display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px;	color: #bfbfbf;background: #f2f2f2;border: 1px solid #bfbfbf;vertical-align: middle;}
+
+
+
+

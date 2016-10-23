@@ -1,0 +1,49 @@
+h1, h2, h3, h4, h5, h6, p, a, em, font, img, strong, b, dl, dt, dd, form, label, ol, ul, li, legend, span, input ,body{margin: 0;padding: 0;}
+body{font: 12px/150% "microsoft yahei",Arial,Verdana,"宋体";color: #666;}
+img{border: none;display: block;}
+a{text-decoration: none; color: #999;outline: none;}
+b{font-weight: normal;}
+a:hover{color: #690;}
+.left{float: left;}
+.right{float: right;}
+ul,dl,ol,li{list-style: none;}
+.clearfix:after {content: ".";clear:both;display: block;height: 0;overflow:hidden;visibility: hidden;}
+
+.top {width: 1000px;height: 64px;padding: 10px 0 20px;margin: 0 auto; }
+.top span {font-size: 18px;margin-top: 26px;}
+.loginbox{width: 1000px;height: auto;overflow: hidden;margin: 0 auto;}
+.ggao{width: 520px;height: 340px;margin: 50px 15px 0 0; background: url("../images/b378f966cc2fedb585875f5c006d950d.png") no-repeat;}
+.login{width: 400px;margin-top: 20px;}
+.top_login{width: 100%;height: 38px; font-size: 16px;color: #333;}
+.top_login a{float: right;width: 70px;height: 25px;border: 1px solid #690;background: #fff4f0;text-align: center;font-size: 12px;line-height: 25px;color: #333;}
+.bkuang{width: 398px;border: 1px solid #ccc;border-bottom: 0;}
+.login_text{width: 410px;height: 30px;text-align: center;line-height: 30px;}
+.login_text li{width: 133px;height: 30px;border-right:1px solid #ccc;/*border-bottom:1px solid #ccc;*/ float: left;}
+.login_text .boderno{border: 0;}
+.on{display: block;background: #fff;height: 31px;border-top: 2px solid #690;margin-top: -1px;}
+.login_text li i{display: inline-block;width: 15px;height: 15px;background: url("../images/loginicon.png") no-repeat;margin: 0 3px -3px 0;}
+.login_text .i2{background-position:0 -24px;}
+.login_text .i3{background-position:0 -47px;}
+.thislogin{width: 365px;border: 1px solid #ccc;border-bottom: 0;padding: 20px 0 15px 33px;}
+.user,.mima{width: 320px;height: 36px;border: 1px solid #ccc;}
+.user input,.mima input,.yanz input{width: 280px;height: 36px;border: 0;outline: none;text-indent: 5px;line-height: 36px;font-size: 16px;}
+.user i,.mima i{float: right;width:26px;height: 23px;background: url("../images/icon1.jpg") no-repeat;margin: 8px 6px 0 0;}
+.mima i{background-image:url("../images/icon2.jpg");}
+.text1{height: 22px;}
+.tis1,.tis2{width: 320px;height: 18px;border: 1px solid #fff;border-top: 0;}
+.yanz{height:38px;margin-top: 10px;}
+.yanz input{float: left; width: 104px;border: 1px solid #ccc;}
+.sjma{display: inline-block;width: 106px;height: 36px;line-height: 36px;font-size: 24px;color: #670;letter-spacing: 4px;text-align: center;background: url("../images/yzmbg.png") no-repeat;margin: 0 5px;}
+.tis3{width: 104px;height: 18px;border: 1px solid #fff;border-top: 0;}
+.wjmima{position: relative;top:35px;left: 40px;color: #444;}
+.wjmima:hover{text-decoration: underline;}
+.sub{display: block; width: 320px;height: 40px;text-align: center;line-height: 40px; background: #690;border: 1px solid #aaa;border-radius: 3px;color: #fff;font-size: 18px;margin: 10px 0 0 0;cursor: pointer;}
+.sub:hover{background: #6a0;}
+.hezuo{width: 365px;border: 1px solid #ccc;padding: 10px 0 2px 33px;}
+.hzdl{color: #176246;}
+.hzdl a{color: #176246;line-height: 24px;}
+.hzdl a:hover{text-decoration: underline;}
+
+.footer{width: 1000px;height: 100px;margin: 70px auto 0;text-align: center;line-height: 26px;}
+.footer a{color: #666;}
+.footer a:hover{text-decoration: underline;}

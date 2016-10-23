@@ -1,0 +1,260 @@
+@charset "UTF-8";
+h1, h2, h3, h4, h5, h6, p, a, em, font, img, strong, b, dl, dt, dd, form, label, ol, ul, li, legend, span, input, body {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: 12px/150% "microsoft yahei",Arial,Verdana,"宋体";
+  color: #666; }
+
+img {
+  border: none;
+  display: block; }
+
+a {
+  text-decoration: none;
+  color: #999;
+  outline: none; }
+
+b {
+  font-weight: normal; }
+
+a:hover {
+  color: #690; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }
+
+ul, dl, ol, li {
+  list-style: none; }
+
+.clearfix:after {
+  content: ".";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }
+
+html {
+  background: #f5f5f5;
+  color: #515151; }
+
+.top {
+  width: 1000px;
+  height: 64px;
+  padding: 10px 0 20px;
+  margin: 0 auto; }
+
+.top span {
+  font-size: 24px;
+  margin-top: 27px;
+}
+
+.nav {
+  width: 667px;
+  height: 40px;
+  margin: 0 auto;
+  padding-left: 333px;
+  position: relative; }
+
+.nav .odiv {
+  width: 158px;
+  height: 30px;
+  background: #ececec;
+  margin-right: 10px;
+  border-top: 1px solid #ccc;
+  margin-top: 8px;
+  line-height: 30px; }
+
+.login {
+  margin-top: 14px;
+  color: #333; }
+
+.login a {
+  color: #690;
+  margin: 0 20px 0 5px; }
+
+.login a:hover {
+  text-decoration: underline; }
+
+.nav .text {
+  display: block;
+  height: 30px;
+  text-align: center;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc; }
+
+.nav .on {
+  margin-top: 0; }
+
+.on .text {
+  display: block;
+  width: 156px;
+  height: 38px;
+  background: #fff;
+  line-height: 39px;
+  font-size: 16px;
+  position: absolute;
+  z-index: 5; }
+
+.show {
+  width: 1000px;
+  height: auto;
+  padding-bottom: 50px;
+  border-top: 1px solid #ccc;
+  position: absolute;
+  top: 38px;
+  left: 0;
+  background: url("../images/pic2.jpg") no-repeat right 120px #fff; }
+
+form {
+  padding-top: 44px;
+  font-family: "宋体";
+}
+
+form div {
+  overflow: hidden; }
+
+form p {
+  width: 230px;
+  height: 36px;
+  padding-left: 15px;
+  line-height: 36px; }
+
+.username, .mima1, .yanzm {
+  margin-bottom: 30px; }
+
+.bqian {
+  display: inline-block;
+  width: 158px;
+  height: 36px;
+  line-height: 36px;
+  text-align: right;
+  font-size: 15px;
+  color: #444; }
+
+.bqian b {
+  color: #ff4800;
+  margin-right: 5px;
+ }
+
+.aqqd {
+  padding: 0 0 12px 235px; }
+
+.aqqd span {
+  display: inline-block;
+  width: 34px;
+  height: 17px;
+  margin-right: -4px;
+  color: #fff;
+  line-height: 17px;
+  text-align: center;
+  background: #bbb; }
+
+.biank {
+  display: inline-block;
+  width: 268px;
+  height: 36px;
+  border: 1px solid #ddd;
+  overflow: hidden; }
+
+.biank input {
+  width: 230px;
+  height: 36px;
+  border: 0;
+  outline: none;
+  text-indent: 5px;
+  line-height: 36px; }
+
+.biank i {
+  display: inline-block;
+  width: 23px;
+  height: 25px;
+  background: url("../images/icon4.jpg") no-repeat;
+  float: right;
+  margin: 5px 5px 0 0; }
+
+.yanzm .biank {
+  width: 68px; }
+
+.yanzm input {
+  width: 38px; }
+
+.sjma {
+  width: 106px;
+  height: 36px;
+  line-height: 36px;
+  font-size: 24px;
+  color: #670;
+  letter-spacing: 4px;
+  text-align: center;
+  background: url("../images/yzmbg.png") no-repeat;
+  margin: 0 5px; }
+
+.next {
+  line-height: 36px; }
+
+.next a {
+  color: #690; }
+
+.next a:hover {
+  text-decoration: underline; }
+
+.xieyi {
+  padding-left: 160px; }
+
+.xieyi input {
+  margin: 12px 5px 0 0; }
+
+.xieyi a {
+  line-height: 36px;
+  margin-right: 23px;
+  color: #333; }
+
+.xieyi span {
+  color: #690; }
+
+.xieyi a:hover {
+  text-decoration: underline; }
+
+.ljzc {
+  display: block;
+  width: 268px;
+  height: 34px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background: #690;
+  color: #fff;
+  font-size: 16px;
+  line-height: 34px;
+  text-align: center;
+  margin: 10px 0 0 160px;
+  cursor: pointer; }
+
+.ljzc:hover {
+  background: #6a0; }
+.ljmore{
+  width: 980px;
+  margin:30px 0 0 10px;
+  padding-top: 10px;
+  border-top: 1px dotted #ddd;
+}
+.ljmore a {
+  background: url("../images/reg_tip.png") no-repeat 30px 0;
+  color: #690;
+  padding-left: 50px;
+  font-family: "宋体"; }
+.footer{
+  width: 1000px;
+  height: 100px;
+  font-family: "宋体";
+  margin: 550px auto 0;
+  text-align: center;
+  line-height: 26px;
+}
+.footer a{color: #666;}
+.footer a:hover{text-decoration: underline;}

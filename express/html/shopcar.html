@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>购物车</title>
+    <link rel="stylesheet" href="../css/style.css"/>
+    <link rel="stylesheet" href="../css/shopcar.css"/>
+    <script type="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="../js/javascript.js"></script>
+    <script type="text/javascript" src="../js/shopcar.js"></script>
+</head>
+<body>
+<!--************************topmenu***************************-->
+<div class="topmenu">
+    <div class="topme">
+        <ul class="teleft left">
+            <li>冷链配送 99元顺丰到家 送至：</li>
+            <li class="psdi"><b>北京</b>
+                <i class="sanj"></i>
+                <div class="more_di">
+                    <div class="more_top">请选择您的收货城市：</div>
+                    <div class="more_hot">
+                        <a href="#">北京</a>
+                        <a href="#">上海</a>
+                        <a href="#">广州</a>
+                        <a href="#">深圳</a>
+                        <a href="#">天津</a>
+                        <a href="#">苏州</a>
+                        <a href="#">杭州</a>
+                        <a href="#">南京</a>
+                        <a href="#">无锡</a>
+                        <a href="#">青岛</a>
+                        <a href="#">武汉</a>
+                    </div>
+                    <div class="gdcs">更多城市：</div>
+                    <ul class="more_bot">
+
+                    </ul>
+                </div>
+            </li>
+        </ul>
+        <ul class="terig right">
+            <li class="login22">嘿，欢迎来顺丰优选！
+                <a href="login.html">请登录</a>
+                <a href="register.html">免费注册</a>
+            </li>
+            <li><a href="#">我的订单</a></li>
+            <li class="myyx">
+                <a href="#">我的优选</a><i class="sanj"></i>
+                <div class="myall">
+                    <a href="#">我的订单</a>
+                    <a href="#">我的积分</a>
+                    <a href="#">我的收藏</a>
+                    <a href="#">我的优选卡</a>
+                    <a href="#">我的优惠券</a>
+                </div>
+            </li>
+            <li><a href="#"><span class="phone"></span>移动客户端</a></li>
+            <li class="bangz">
+                <a href="#">帮助中心</a><i class="sanj"></i>
+                <div class="bangall">
+                    <a href="#">购物指南</a>
+                    <a href="#">配送服务</a>
+                    <a href="#">支付方式</a>
+                    <a href="#">售后服务</a>
+                    <a href="#">客服邮箱</a>
+                    <a href="#">投诉与建议</a>
+                </div>
+            </li>
+            <li class="wzdh">
+                <a href="#">网站导航</a><i class="sanj"></i>
+                <div class="daoh">
+                    <div class="fenl left">
+                        <h3>商品分类</h3>
+                        <a href="#">肉类海鲜</a>
+                        <a href="#">熟食蛋奶</a>
+                        <a href="#">水果蔬菜</a>
+                        <a href="#">酒水饮料</a>
+                        <a href="#">休闲食品</a>
+                        <a href="#">冲调茶饮</a>
+                        <a href="#">粮油干货</a>
+                        <a href="#">优选国际</a>
+                    </div>
+                    <div class="pind left">
+                        <h3>特色频道</h3>
+                        <a href="#">跨境直达</a>
+                        <a href="#">企业专区</a>
+                        <a href="#">红酒廊</a>
+                        <a href="#">寰宇美食</a>
+                    </div>
+                    <div class="more left">
+                        <h3>更多</h3>
+                        <a href="#">客户端</a>
+                        <a href="#">关注我们</a>
+                        <span>客服电话：9533858</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a class="wb" href="#" title="关注顺丰优选微博"></a>
+                <a class="wx" href="#"></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!--************************main***************************-->
+<div class="main">
+    <div class="logo left">
+        <a class="suyun" href="../index.html"></a>
+        <a class="youxuan" href="../index.html"></a>
+        <span class="sytex"></span>
+    </div>
+    <div class="my123 right"></div>
+    <div class="wdgwc left">
+        <h2>我的购物车</h2>
+        <b class="songz left">送至：</b>
+        <div class="where left">北京东城区</div>
+        <span class="tishi left">提示：请选择您的收货区域，查看更准确的信息</span>
+    </div>
+</div>
+<!--************************main***************************-->
+<div class="shopcar">
+    <div class="nothing">
+        <div class="noth1"><span>购物车暂无商品数据</span><a href="../index.html">现在就去购物>></a> </div>
+        <div class="noth2">您的购物车是空的，可能是您尚未登录，<a href="login.html">马上登录</a> 再看看。</div>
+    </div>
+    <div class="shop">
+        <table class="table">
+            <thead>
+            <tr>
+                <th width="75">
+                    <input id="choseAll" class="choseAll" type="checkbox" checked="checked"/>
+                    <label for="choseAll">全选</label>
+                </th>
+                <th width="310">商品</th>
+                <th width="96">单价</th>
+                <th width="96">优惠</th>
+                <th width="140">数量</th>
+                <th width="110">重量(含包装)</th>
+                <th width="80">小计</th>
+                <th width="80">库存状态</th>
+                <th width="80">操作</th>
+            </tr>
+            </thead>
+            <tbody class="mything"></tbody>
+        </table>
+        <div class="zongji">
+            <a class="del left" href="javascript:;">删除选中的商品</a>
+            <a class="qkong" href="javascript:;">清空购物车</a>
+            <div class="num_jiage right">
+                <span>重量总计：<i class="z_num">0</i>kg（含包装）</span>
+                <span>（不含运费）</span>
+                <span>商品总计：<b class="spzj">￥0</b></span>
+            </div>
+        </div>
+        <div class="buy_go">
+            <a class="qjs right" href="#">去结算</a>
+            <a class="jxbuy right" href="../index.html">继续购物</a>
+        </div>
+    </div>
+
+</div>
+<!--************************footer***************************-->
+<div class="footer">
+    <div class="flogo left">
+        <a href="#"></a>
+        <b>9533858</b>
+        <span>周一至周日8:30-22:00</span>
+    </div>
+    <div class="znan left">
+        <h3>购物指南</h3>
+        <a href="#">积分制度</a>
+        <a href="#">会员介绍</a>
+        <a href="#">购物流程</a>
+        <a href="#">常见问题</a>
+    </div>
+    <div class="znan left">
+        <h3>配送服务</h3>
+        <a href="#">配送政策</a>
+        <a href="#">开箱验货</a>
+        <a href="#">配送运费</a>
+        <a href="#">配送范围</a>
+    </div>
+    <div class="znan left">
+        <h3>支付方式</h3>
+        <a href="#">货到付款</a>
+        <a href="#">在线支付</a>
+        <a href="#">优选卡</a>
+        <a href="#">发票制度</a>
+    </div>
+    <div class="znan left">
+        <h3>售后服务</h3>
+        <a href="#">退款说明</a>
+        <a href="#">退换货流程</a>
+        <a href="#">退换货政策</a>
+        <a href="#">隐私条款</a>
+    </div>
+    <div class="erwm left">
+        <h3>手机客户端</h3>
+        <div></div>
+    </div>
+    <div class="erwm gfwx right">
+        <h3>官方微信</h3>
+        <div></div>
+    </div>
+</div>
+<!--************************copy***************************-->
+<div class="copy">
+    <span class="cxwz left"></span>
+    <a class="rzlm left" href="#"></a>
+    <div class="left">
+        <div class="about">
+            <a href="#">关于我们</a>
+            <a href="#">联系我们</a>
+            <a href="#">招聘人才</a>
+            <a href="#">友情链接</a>
+            <a href="#">供应商申请</a>
+            <span>Copyright© 顺丰优选 sfbest.com 版权所有</span>
+        </div>
+        <div class="jingw">
+            <span>京公网安备11010502026831号</span>
+            <a href="#">京ICP证150325号</a>
+            <span>食品流通许可证SP1101131210068671(1-1)号</span>
+            <a href="#">企业营业执照</a>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
