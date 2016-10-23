@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/css/index.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/css/shopcar.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/watch.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/floor.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/menu.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/watch.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/watchsort.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/javascript.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/shopcar.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/watch.js" charset="UTF-8" />
+  </component>
+</project>

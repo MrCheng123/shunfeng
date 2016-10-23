@@ -1,0 +1,156 @@
+@charset "utf-8";
+/*--------------------------banner---------------------------*/
+.box1{width: 100%;height: 400px;position: relative;}
+.banner{width: 1200px;height: 400px;position: relative;margin: auto;}
+.lunbo{width: 1030px;height: 400px; position: relative;}
+.t1{position: absolute;top: 0;display: none;}
+.con1{display: none;position: absolute;top: 0;z-index: 1;display: none;}
+.dot{position: absolute;left: 450px;bottom: 10px;z-index: 3;}
+.dot span{display: block;width: 20px;margin: 0 5px;border-radius: 10px; height: 20px;background: #584b9e; text-align: center;font-size: 11px;color: #fff; line-height: 20px;cursor: pointer; float: left;}
+.lunbo i{display: block;width: 40px;height: 100px;background: #000;color: #fff; position: absolute;text-align: center;font: 75px/100px simsun;opacity: 0.6;cursor: pointer;display: none;}
+.butl{left:40px;top:150px;}
+.butr{right:0;top:150px;z-index: 6;}
+
+
+
+/*--------------------------pic3---------------------------*/
+.pic3{width: 1200px;height: 148px;padding-top: 12px; margin:0 auto 40px;}
+.pic3 img{float: right;margin-left: 10px;}
+/*--------------------------main---------------------------*/
+.main{width: 1200px;height: auto;margin: auto;overflow: hidden;}
+.main:after{content: ".";clear: both;display: block;height: 0;overflow: hidden;visibility: hidden;}
+/*.main img:hover{box-shadow: 0 0 8px #999;}*/
+
+.floor{width: 1200px;height: auto;}
+.floor:after{content: ".";clear: both;display: block;height: 0;overflow: hidden;visibility: hidden;}
+
+/*--------------------------global---------------------------*/
+.global{width: 100%;height: 75px;}
+.global a{display: block;width: 250px;margin-left: 475px; font: 20px/42px "微软雅黑";text-align: center;color: #333; font-weight: 900;}
+.global div{width: 100%;height: 35px;background: url("../images/point.png") repeat-x left center;}
+.global ul{width: 407px;height: 34px;background: #fff;margin: auto;padding-left: 30px;}
+.global li{display: block;min-width: 97px;height: 34px; float: left;line-height: 34px;color: #999;}
+.global i{display: block;width: 37px;height: 37px;background: url("../images/ico_index2.png") no-repeat -4px -130px;float: left;}
+.global .i2{background-position: -53px -130px;}
+.global .i3{background-position: -104px -130px;}
+.global .i4{background-position: -153px -130px;}
+.xiebao{width: 980px;height: 358px;margin: 24px 0 15px;}
+.xiebao a{float: left;width: 460px;height: 358px;}
+.xie{margin-left:37px; }
+.more{width: 180px;height: 520px;padding-top: 35px;text-align: center;}
+.mor{display: block;height: 35px;color: #5d5d5d;}
+.texa{display: block; height: 30px; line-height: 30px;margin-bottom:30px;color: #5d5d5d;}
+.more a:hover{color: #463b7f;}
+.imgbor{width: 178px;height: 88px;overflow: hidden;border: 1px solid #aaa;position: relative;}
+.img1{display: block;width: 178px;height: 88px;overflow: hidden;}
+.zhig{width: 1000px;height: 250px;}
+.zhig li{margin-right:18px;float: left;width: 180px;}
+.zhig img:hover{box-shadow: 0 0 8px #aaa;}
+.zhig a{display: block;margin-left: 20px;}
+.zhig b{float: left;width: 180px;padding: 4px 0;}
+.zhig i{display: block;width: 30px;height: 20px;background: url("../images/ico_index2.png") no-repeat -62px -206px;float: left;margin-right:12px; }
+.xiangq{ width: 130px;height: 28px;color: #555; overflow: hidden;line-height: 14px; text-overflow: clip;padding-left: 22px;}
+.xiangq:hover{color: #463b7f;}
+.zhig span{display: block;padding:4px 0 0 42px;color: #888;}
+/*--------------------------sale---------------------------*/
+.sale{width: 100%;height: 95px;}
+.sale a{display: block; width: 200px;margin-left:500px;  font: 20px/42px "微软雅黑";text-align: center;color: #333; font-weight: 900;}
+.sale div{width: 100%;height: 35px;background: url("../images/point.png") repeat-x left center;}
+.sale span{display: block;width: 160px;margin: auto;text-align: center;background: #fff;line-height: 34px;color: #555;font-size: 13px;}
+.sale1{height: 448px;width: 1200px;}
+.shopnow{width: 567px;height: 408px;margin-right: 40px;position: relative;text-align: center;}
+.shopnow span{display: block;height: 24px;padding: 0 10px;color: #000; text-align: center;line-height: 24px; background: #f1f1f1;position: absolute;top:-12px;left: 0;z-index: 5;}
+.man a{display: block;width: 375px;height: 189px;margin-bottom: 30px;overflow: hidden; position: relative;}
+.man span{display: block;width: 375px;height: 189px;text-align: center; background: url("../images/toum.png");position: absolute;top: 189px;left: 0;}
+.man i{display: block;line-height: 30px;margin: 50px auto 0;color: #fff;font-size: 20px;}
+.man b{display: block;line-height: 30px;margin: 30px auto 0;color: #fff;font-size: 25px;color: #ca2a28;}
+
+
+.sansale{width: 180px;height: 446px; background:url("../images/sale_06.png")no-repeat 0 26px;margin-top: -26px;}
+.sansale a:hover{color: #463b7f;}
+.mor1{height: 34px;width: 180px;}
+.mor1 a{float: right;}
+.salet{width: 180px;height: 190px;text-align: center;}
+.salet img{margin: 8px 30px;}
+.salet i{display: block;}
+.salet span{display: block;width: 180px;height: 16px;background: url("../images/ico_index2.png") no-repeat -236px -139px;}
+.sale2{min-width: 1200px;height: 166px; overflow: hidden;}
+.sale2 a{font-size: 14px;line-height:24px;color: #555;}
+.sale2 li{float: left;margin-right: 23px;}
+.sale2 a:hover{color: #463b7f;}
+.border{width: 268px;height: 88px;overflow: hidden;position: absolute;left: 0;top:0;}
+.border img{float: left;}
+.sale2 a{display: block;text-align: center;}
+.border i{float: left; width: 80px;height: 100%;text-align: center;color:#d33220; font: bold 16px/88px "microsoft yahei";}
+.sale2 .mar0{margin: 0;}
+
+
+
+/*--------------------------auction---------------------------*/
+.baodai{display: block;width: 920px;height: 380px;}
+.auc{width: 240px;height: 455px;}
+.auctop{width: 192px;height: 250px;background: #eee;padding: 10px 24px;}
+.auctop h3{display: block;width: 192px;line-height: 32px;font-weight: 900;color: #555;}
+.auctop a{display: block;color: #555; line-height: 32px;width: 192px;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+.aucbot{width: 240px;height: 132px;text-align: center;}
+.aucbot span{display: block;width: 101px;height: 33px;margin: 24px 0 0 70px; background: url("../images/ico_index2.png") no-repeat 0 -169px;}
+.aucbot a{display: block;line-height: 45px;font-size: 18px;color: #333;}
+.aucbot i{color: #999;}
+/*--------------------------mall---------------------------*/
+.sort{width:1200px;height: 390px;overflow: hidden;}
+.sort a{float:left;}
+.title{width: 100%;height: 35px;}
+.title a{margin-right: 20px;line-height: 35px;}
+.title a:hover{color: #463b7f;}
+.variety{font-weight: 800;font-size: 15px;color: #333;}
+.title .variety:hover{color: #333;}
+.title .more4{float: right;margin: 0;}
+.sele{width: 1220px;height: 329px;overflow: hidden;}
+.sele a{display: block;position: relative;border-right:1px solid #e5e5e5;border-top:1px solid #e5e5e5;}
+.sele h3{position: absolute;left:20px;top:34px;color: #2f2f2f;}
+.sele h4{position: absolute;left:20px;top:50px;}
+.sele .s1001s000{border: none;width: 480px;height: 330px;}
+.s1001s001{width: 237px;height: 327px;}
+.s1001s002,.s1001s003,.s1001s004,.s1001s005{width: 240px;height: 163px;}
+.sele{border-bottom: 1px solid #e5e5e5;}
+/*--------------------------like---------------------------*/
+.like{width: 1200px;height: 380px;margin:0 auto;}
+.youlike{width: 1200px;height: 84px;padding-top: 25px;position: relative;}
+.youlike div{width: 100%;height: 35px;background: url("../images/point.png") repeat-x left center;}
+.youlike span{display: block;width: 160px;font:18px/34px "微软雅黑"; margin: auto;text-align: center;background: #fff; font-weight: 800; color: #333;}
+.lunbo2{width: 1150px;height: 266px;margin:0 25px; overflow: hidden;position: relative;z-index: 5;}
+.showpic{width: 4500px;height: 266px;position: absolute;top:0;left: 0;}
+.showpic li{float: left;width: 190px;height: 100%;padding: 0 20px;}
+.showpic li div{width: 100%;height: 185px;text-align: center;}
+.showpic img{margin-top: 12px;}
+.showpic span{display: block;width: 100%;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+.showpic i{display: block;width: 100%; text-align: center;}
+.showpic i:hover{color: #9d0015;}
+.youlike .btz,.youlike .bty{display: block;width: 21px;height: 53px;background: #333;color: #fff; position: absolute;text-align: center;font: 23px/53px simsun;cursor: pointer;}
+.youlike .btz{left:4px;top:215px;z-index: 6;}
+.youlike .bty{right:4px;top:215px;z-index: 6;}
+/*--------------------------楼梯及回到顶部---------------------------*/
+.gufloor{width: 85px;padding-left: 3px; position: fixed;top:50%;right: 0;margin-top: -250px; background:#fff;opacity: 0.8; filter: alpha(opacity=80); z-index: 10;display: none;}
+.gufloor a{display: block; width: 100px;height: 30px;line-height: 30px;color: #000;cursor: pointer;}
+.gufloor a:hover{color: red;}
+.gufloor span{display: block;width:25px;height: 27px; background: url("../images/ico_index2.png") no-repeat -253px -80px;margin: 10px 0;}
+.gufloor span:hover{background-position: -253px -112px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

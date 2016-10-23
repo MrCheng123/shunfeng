@@ -1,0 +1,250 @@
+{
+  "1000":{
+    "sort":{"name":"包袋","url":"#"},
+    "more":{"name":"更多包袋>","url":"#"},
+    "part":{
+      "1000000":{"name":"HERMES","url":"#"},
+      "1000001":{"name":"CHANEL","url":"#"},
+      "1000002":{"name":"LV","url":"#"},
+      "1000003":{"name":"PRADA","url":"#"},
+      "1000004":{"name":"GUCCI","url":"#"},
+      "1000005":{"name":"COACH","url":"#"},
+      "1000006":{"name":"BURBERRY","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"e83f711639ee475a8c962a4622194716.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"28d36c3cc5f6407a917a9c20b7928c6d.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "1001":{
+    "sort":{"name":"腕表","url":"http://localhost:63342/%E5%AF%BA%E5%BA%93%E7%BD%91/html/watch.html"},
+    "more":{"name":"更多腕表>","url":"#"},
+    "part":{
+      "1001000":{"name":"百达翡丽","url":"#"},
+      "1001001":{"name":"劳力士","url":"#"},
+      "1001002":{"name":"卡地亚","url":"#"},
+      "1001003":{"name":"欧米伽","url":"#"},
+      "1001004":{"name":"浪琴","url":"#"},
+      "1001005":{"name":"积家","url":"#"},
+      "1001006":{"name":"万国","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"0faef6ff79314fbb9f7cf84feec2fa73.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"2cb006bb6e1b49d7abafb20d6441265c.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0d4089bd75514d9d9a6d082694e30ec9.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"70dcc3a5352742ef8c59e5a8a733dd51.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"c4d6a39e5af84f84ab64b9a40b4251e7.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"e15a86039cc64a158d54f37d3b9bc016.jpg","url":"#"}
+    }
+  },
+  "1002":{
+    "sort":{"name":"服装","url":"#"},
+    "more":{"name":"更多服装>","url":"#"},
+    "part":{
+      "1001000":{"name":"BURBERRY","url":"#"},
+      "1001001":{"name":"HUGO BOSS","url":"#"},
+      "1001002":{"name":"VERSACE","url":"#"},
+      "1001003":{"name":"Dolce&Gabbana","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"0c58d62751f74f04b2e3a63f92d9650a.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"4174e9f5209146c3b29b6b4fb064a47c.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "1003":{
+    "sort":{"name":"鞋靴","url":"#"},
+    "more":{"name":"更多鞋靴>","url":"#"},
+    "part":{
+      "1001000":{"name":"Ferragamo","url":"#"},
+      "1001001":{"name":"PRADA","url":"#"},
+      "1001002":{"name":"TOD'S","url":"#"},
+      "1001003":{"name":"Dolce&Gabbana","url":"#"},
+      "1001004":{"name":"BALLY","url":"#"},
+      "1001005":{"name":" Calvin Klein Collection","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"8f5dd937021b453abbd15b00ac49067c.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"128d0a0dc98145f9871c960b6931091a.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"cd995bc345d5414b9985c5b70b64ecb2.jpg","url":"#"}
+    }
+  },
+  "1004":{
+    "sort":{"name":"配饰","url":"#"},
+    "more":{"name":"更多腕表>","url":"#"},
+    "part":{
+      "1001000":{"name":"百达翡丽","url":"#"},
+      "1001001":{"name":"劳力士","url":"#"},
+      "1001002":{"name":"卡地亚","url":"#"},
+      "1001003":{"name":"欧米伽","url":"#"},
+      "1001004":{"name":"浪琴","url":"#"},
+      "1001005":{"name":"积家","url":"#"},
+      "1001006":{"name":"万国","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"39ce94c3a6f4479bb567820ad0a9d461.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8caca7f31f424bee9d4e6f1cf27b34e1.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "1005":{
+    "sort":{"name":"首饰","url":"#"},
+    "more":{"name":"更多腕表>","url":"#"},
+    "part":{
+      "1001000":{"name":"百达翡丽","url":"#"},
+      "1001001":{"name":"劳力士","url":"#"},
+      "1001002":{"name":"卡地亚","url":"#"},
+      "1001003":{"name":"欧米伽","url":"#"},
+      "1001004":{"name":"浪琴","url":"#"},
+      "1001005":{"name":"积家","url":"#"},
+      "1001006":{"name":"万国","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"9c17d6a269464206b4a04b8451cb8e58.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"f88e78190119422882efde79c96d94c0.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "1006":{
+    "sort":{"name":"家居生活","url":"#"},
+    "more":{"name":"更多腕表>","url":"#"},
+    "part":{
+      "1001000":{"name":"百达翡丽","url":"#"},
+      "1001001":{"name":"劳力士","url":"#"},
+      "1001002":{"name":"卡地亚","url":"#"},
+      "1001003":{"name":"欧米伽","url":"#"},
+      "1001004":{"name":"浪琴","url":"#"},
+      "1001005":{"name":"积家","url":"#"},
+      "1001006":{"name":"万国","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"9d3226ab072c4c369d1ee55a202ffe27.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"1a073c964039467aa2659dc4023d9830.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "1007":{
+    "sort":{"name":"户外运动","url":"#"},
+    "more":{"name":"更多腕表>","url":"#"},
+    "part":{
+      "1001000":{"name":"百达翡丽","url":"#"},
+      "1001001":{"name":"劳力士","url":"#"},
+      "1001002":{"name":"卡地亚","url":"#"},
+      "1001003":{"name":"欧米伽","url":"#"},
+      "1001004":{"name":"浪琴","url":"#"},
+      "1001005":{"name":"积家","url":"#"},
+      "1001006":{"name":"万国","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"5625a6d6a7724f81bac85af494557e3a.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"cea353fbad4b46c89e37aa4868821936.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "1008":{
+    "sort":{"name":"美妆达人","url":"#"},
+    "more":{"name":"更多腕表>","url":"#"},
+    "part":{
+      "1001000":{"name":"百达翡丽","url":"#"},
+      "1001001":{"name":"劳力士","url":"#"},
+      "1001002":{"name":"卡地亚","url":"#"},
+      "1001003":{"name":"欧米伽","url":"#"},
+      "1001004":{"name":"浪琴","url":"#"},
+      "1001005":{"name":"积家","url":"#"},
+      "1001006":{"name":"万国","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"09eb4696893a4dc9a89778c1b4754fe1.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0a2db2c330dd4f39b988f409eee30903.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "1009":{
+    "sort":{"name":"母婴玩具","url":"#"},
+    "more":{"name":"更多玩具>","url":"#"},
+    "part":{
+      "1001000":{"name":"百达翡丽","url":"#"},
+      "1001001":{"name":"劳力士","url":"#"},
+      "1001002":{"name":"卡地亚","url":"#"},
+      "1001003":{"name":"欧米伽","url":"#"},
+      "1001004":{"name":"浪琴","url":"#"},
+      "1001005":{"name":"积家","url":"#"},
+      "1001006":{"name":"万国","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"25a8077e5c38492dbf24189b0bb802d7.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"4a99b149dc8c443face318c54397fd0f.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "10010":{
+    "sort":{"name":"中国精品","url":"#"},
+    "more":{"name":"更多中国精品>","url":"#"},
+    "part":{
+      "1001000":{"name":"内联升","url":"#"},
+      "1001001":{"name":"上九楷","url":"#"},
+      "1001002":{"name":"云帛","url":"#"},
+      "1001003":{"name":"看见民生","url":"#"},
+      "1001004":{"name":"周氏龙泉剑","url":"#"},
+      "1001005":{"name":"金色度母","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"149444d062c54f9ea4f393e46aaa027a.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"7691825ddbba4d7cb1a2cbda02269c6c.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  },
+  "10011":{
+    "sort":{"name":"豪车","url":"#"},
+    "more":{"name":"更多豪车>","url":"#"},
+    "part":{
+      "1001000":{"name":"新车","url":"#"},
+      "1001001":{"name":"二手车","url":"#"},
+      "1001002":{"name":"平行进口车","url":"#"},
+      "1001003":{"name":"飞机","url":"#"},
+      "1001004":{"name":"游艇","url":"#"},
+      "1001005":{"name":"无人机","url":"#"},
+      "1001006":{"name":"豪车生活","url":"#"},
+      "1001006":{"name":"赛道服饰","url":"#"}
+    },
+    "selection":{
+      "1001s000":{"name":"","sift":"","path":"f8695cc345db4032a0a1b396968575ce.jpg","url":"#"},
+      "1001s001":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"d1ace326e2d440468592c8154f057b2a.jpg","url":"#"},
+      "1001s002":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"8fa069bf69a846be9f5d3767ae4f4efc.jpg","url":"#"},
+      "1001s003":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"0df8af1a0bab4d8fb79b51854f8c2b6b.jpg","url":"#"},
+      "1001s004":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"19f7888979554ec88c10afd84c24d3b1.jpg","url":"#"},
+      "1001s005":{"name":"Louis Vuitton包袋","sift":"品牌限时特惠","path":"5b761abea2a0440f97c39259eb764673.jpg","url":"#"}
+    }
+  }
+}

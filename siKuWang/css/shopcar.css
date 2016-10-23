@@ -1,0 +1,91 @@
+.box5{width: 100%;height: 70px;background: #333;}
+.shtop{width: 990px;height:100%;margin:0 auto;}
+.shtop a{float: left;width: 30px;height: 100%;background: url("../images/logo.png") no-repeat;text-indent: -9999px;}
+.shtop span{float: right;width: 350px;height: 100%;background: url("../images/c_05.jpg") no-repeat;}
+.box6{width: 100%;min-height: 650px;background:#f6f6f6;}
+.myshop{width:990px;min-height: 400px;padding: 30px 0;margin: 0 auto;}
+.noone{width: 100%;height: 242px;background: url("../images/c_11.jpg") no-repeat 150px 54px;margin-top: 100px;}
+.noone span{display: block;width: 387px;height: 42px;font-size: 24px;font-weight: 100;font-family: "microsoft yahei"; color: #5d5d5d;padding: 70px 0 0 410px;}
+.noone a{display: block;width: 192px;height: 40px;background: #e93b39;color: #fff;text-align: center;line-height: 40px;font-weight: 900;font-size: 13px; margin-left: 470px;}
+
+.mycar{width: 100%;height: auto;display: none;}
+.mycarReg{width: 100%;height: 28px;padding-left: 15px; line-height: 28px;color: #666;}
+.mycarReg a{margin: 0 8px;line-height: 28px; color: #e93b39;}
+.mycar table{border-spacing: 0;border-collapse: collapse;}
+.mycar thead,.mycar tbody{ border: 1px solid #fff;}
+.mycar th{height: 48px;}
+#choseAll{margin-right: 5px;position: relative;top:3px;}
+.mycar tr td{background: #fdf0ef;margin-top: -1px;line-height: 22px;padding: 20px 0 15px;color: #666;text-align: center;border-bottom: 1px solid #eaeaea;}
+.mycar tbody img{float:left; width: 80px;height: 80px;border: 1px solid #ddd;}
+.mycar tbody .theName{line-height: 24px;color: #555;text-align: left;}
+.mycar tbody .theName:hover{text-decoration: underline;}
+.mycar .num{width: 30px;height: 18px;text-align: center;border: 1px solid #ddd;border-left: 0;border-right: 0;}
+.td5 i{display: inline-block;width: 12px;height: 18px;text-align: center;line-height: 18px;background: #fff; border:1px solid #ddd;cursor: pointer;}
+.td6 i{display: block;color: #e93b39;}
+.td6 span{display: block;color: #666;}
+.td7 a{color: #333;font-size: 14px;}
+.td7 a:hover{text-decoration: underline;color:#e93b39; }
+
+.account{width: 910px;padding:20px 40px 20px 33px;  height: auto;background: #fff;margin-top: 10px;}
+.account:after{content: ".";clear: both;display: block;height: 0;overflow: hidden;visibility: hidden;}
+.account p{float: right;}
+.xze,.zjbz,.zjkb{height: 26px;}
+#choseAll2{float: left;margin: 3px 5px 0 0;}
+.xze a{display: inline-block;margin-left: 45px;color: #666; background: url("../images/c_06.jpg") no-repeat;padding-left: 18px; }
+.xze a:hover{background: url("../images/c_061.jpg") no-repeat;color: #e93b39;}
+.zjmoney{height: 40px;}
+.zjmoney i{font-size: 35px;color: #e93b39;}
+.wherego{height: 55px;width: 100%;margin-top: 10px;}
+.go1{float: left; width:78px;height: 25px;text-align: center;line-height: 25px;border: 1px solid #e93b39;color: #e93b39; }
+.go1{float: left; width:78px;height: 25px;text-align: center;line-height: 25px;border: 1px solid #e93b39;color: #e93b39;margin-top: 15px;}
+.go2{float: right;width: 136px;height: 40px;text-align: center;line-height: 40px;font-size: 13px;font-weight: 800; color: #fff;background: #e93b39;}
+.go2:hover{background: #d12321;}
+
+
+
+
+
+
+.box7{width: 100%;height: 155px;background: #f6f6f6;border-top: 1px solid #fff;border-bottom: 1px solid #eaeaea;}
+.shfloor{width: 1195px;height:155px;background: url("../images/pic5.png") no-repeat;margin: 0 auto; }
+
+
+.box8{width: 100%;height: 35px;background: #eaeaea; border-top: 1px solid #fff;}
+.shcopy{width: 500px;height: 100%;margin: 0 auto;}
+.shcopy span{float: left; height: 100%;line-height: 35px;padding-right: 5px;}
+.shcopy a{float: left;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
